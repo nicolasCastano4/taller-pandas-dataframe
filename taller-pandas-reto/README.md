@@ -10,7 +10,7 @@ El objetivo del reto es aplicar técnicas de normalización de cadenas, filtrado
 2. `forma_pago_estandarizada` sea `'debito'`.
 3. `cantidad_vendida` sea mayor o igual a `20` unidades.
 
-## 🚀 Resultados y Auditoría
+## Resultados y Auditoría
 
 ### DataFrame Resultante:
 | | producto | precio | sucursal |
