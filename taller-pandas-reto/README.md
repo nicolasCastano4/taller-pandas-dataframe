@@ -2,7 +2,7 @@
 
 Este repositorio contiene la solución al **Reto Práctico Integrador** del taller de Ciencia de Datos I.
 
-## 📌 Descripción del Reto
+## Descripción del Reto
 El objetivo del reto es aplicar técnicas de normalización de cadenas, filtrado compuesto con máscaras booleanas y proyección tabular de datos sobre un dataset de librería.
 
 ### Criterios de Selección:
